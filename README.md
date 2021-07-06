@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning -Javascript + Django + How to choose the appropriate DB for my applications 
 
-- 👯 I’m looking to collaborate on
-- Not much time to spare, but if its interesting who knows!?
+- 👯 I’m looking to collaborate on - Not much time to spare, but if its interesting who knows!?
 
 - 🤔 I’m looking for help with -My gosh can anyone teach me ML?
 
