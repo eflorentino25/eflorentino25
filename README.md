@@ -3,8 +3,6 @@
  I'm just gonna use what Gitty here already made available in the template ;)
  
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on... heck this might be a little long but hear me out
 - My current 40h/w as an ABAP programmer at Decision Group Consultants
 - - My Home automation company https://pclickautomacao.com/ - Great products ;) check us out! Polk, ELAN FIBARO, DENNON and many others! 
